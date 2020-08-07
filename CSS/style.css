@@ -310,7 +310,7 @@ body{
     margin-right: 0.5em;
     margin-top: 1%;
     margin-bottom: 1%;
-    font-size: 1em;
+    font-size: 1.5em;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 1; /* number of lines to show */
@@ -355,7 +355,7 @@ body{
     margin-right: -9px;
     float: center;
     cursor: pointer;
-    border: 2px solid #fff;
+    border: 1.5px solid #fff;
 }
 .many{
 
